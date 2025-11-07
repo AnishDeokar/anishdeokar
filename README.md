@@ -34,6 +34,7 @@
   <a href="https://www.linkedin.com/in/anishdeokar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href=""><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   <a href="https://www.instagram.com/anish_deokar_7939/?hl=en" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  <a href="https://www.hackerrank.com/profile/anishy_deokar" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHackerRank_Icon-1000px.png&psig=AOvVaw17HvG0wPwgaCl8ImyeDO93&ust=1762603217601000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIixsub-35ADFQAAAAAdAAAAABAE"/></a>
 </p>
 
 ---
