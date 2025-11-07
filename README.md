@@ -34,7 +34,7 @@
   <a href="https://www.linkedin.com/in/anishdeokar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
   <a href=""><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   <a href="https://www.instagram.com/anish_deokar_7939/?hl=en" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  <a href="https://www.hackerrank.com/profile/anishy_deokar" target="_blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3AHackerRank_Icon-1000px.png&psig=AOvVaw17HvG0wPwgaCl8ImyeDO93&ust=1762603217601000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIixsub-35ADFQAAAAAdAAAAABAE"/></a>
+  <a href="https://www.hackerrank.com/profile/anishy_deokar" target="_blank"><img src="https://www.google.com/imgres?q=hackerrank%20logo%20for%20github%20profile%20&imgurl=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F1030588%3Fs%3D280%26v%3D4&imgrefurl=https%3A%2F%2Fgithub.com%2Finterviewstreet&docid=lDGSyZ5fXQfEoM&tbnid=rGNIuzElrut6FM&vet=12ahUKEwjz79mL_9-QAxUFTmwGHS2IEXoQM3oECBcQAA..i&w=280&h=280&hcb=2&ved=2ahUKEwjz79mL_9-QAxUFTmwGHS2IEXoQM3oECBcQAA"/></a>
 </p>
 
 ---
