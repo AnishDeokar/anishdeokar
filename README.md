@@ -45,7 +45,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/anishdeokar" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-  <a href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox"><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
+  <a href=""><img src="https://img.icons8.com/fluent/48/000000/gmail.png"/></a>
   <a href="https://www.instagram.com/anish_deokar_7939/?hl=en" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </p>
 
